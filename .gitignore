@@ -1,0 +1,30 @@
+
+---
+
+### 🛑 `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+
+# PyCharm / VSCode settings
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Audio files (optional: if you don’t want to commit them)
+*.wav
+
+# Python packaging
+*.egg-info/
+dist/
+build/
