@@ -23,3 +23,10 @@ Install dependencies using pip:
 
 ```bash
 pip install pygame
+
+## 🙌 Acknowledgements
+
+This project makes use of the following open-source libraries:
+
+- **[Tkinter](https://docs.python.org/3/library/tkinter.html)** — Standard Python interface to the Tk GUI toolkit.
+- **[Pygame](https://www.pygame.org/)** — Used for audio playback functionality in the alarm.
