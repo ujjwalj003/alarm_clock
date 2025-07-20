@@ -1,0 +1,5 @@
+📁 your-repo/
+├── alarm_clock.py        # Main Python GUI application
+├── MyAlarm.wav           # Alarm sound file (required)
+├── README.md             # Project documentation
+└── .gitignore            # Files to be ignored by Git
